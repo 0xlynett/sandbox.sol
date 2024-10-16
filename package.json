@@ -1,0 +1,6 @@
+{
+  "name": "sandbox.sol",
+  "dependencies": {
+    "forge-std": "https://github.com/foundry-rs/forge-std"
+  }
+}
